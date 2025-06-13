@@ -8,3 +8,9 @@ This is a simple console-based Tic Tac Toe game written in Python.
 
 ```bash
 python tic_tac_toe.py
+
+
+## 🔗 Live Demo
+
+👉 [Play the game here](https://sabarinath4.github.io/Tic-Tac_Toe/)
+
